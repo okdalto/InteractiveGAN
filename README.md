@@ -1,1 +1,1 @@
-IteractiveGAN
+InteractiveGAN
